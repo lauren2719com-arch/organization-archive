@@ -1,0 +1,23 @@
+[
+  {
+    "name": "alpha",
+    "title": "PROJECT ALPHA",
+    "level": "TOP SECRET",
+    "status": "ACTIVE",
+    "description": "Experimental research archive."
+  },
+  {
+    "name": "phoenix",
+    "title": "PROJECT PHOENIX",
+    "level": "CONFIDENTIAL",
+    "status": "LOCKED",
+    "description": "Recovery protocol database."
+  },
+  {
+    "name": "omega",
+    "title": "PROJECT OMEGA",
+    "level": "CLASSIFIED",
+    "status": "ARCHIVED",
+    "description": "Final organization records."
+  }
+]
